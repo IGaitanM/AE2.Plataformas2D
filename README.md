@@ -1,11 +1,13 @@
 # AE2.Plataformas2D
-Juego de plataformas 2D hecho con Unity
+Juego de plataformas 2D hecho con Unity y C#
 
 # Actividad 2 - Plataformas 2d
 
 ## Gameplay del juego
 
-[https://youtu.be/VkPPYKioWP8 ](https://youtu.be/VkPPYKioWP8 )
+[https://youtu.be/VkPPYKioWP8 ](https://youtu.be/VkPPYKioWP8)
+
+[![Alt text](https://img.youtube.com/vi/VkPPYKioWP8/0.jpg)](https://youtu.be/VkPPYKioWP8)
 
 ## Controles:
 
