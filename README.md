@@ -3,9 +3,9 @@ Juego de plataformas 2D hecho con Unity
 
 # Actividad 2 - Plataformas 2d
 
-## Video nivel:
+## Gameplay del juego
 
-[https://youtu.be/8gQo9RDCED4](https://youtu.be/8gQo9RDCED4)
+[https://youtu.be/VkPPYKioWP8 ](https://youtu.be/VkPPYKioWP8 )
 
 ## Controles:
 
